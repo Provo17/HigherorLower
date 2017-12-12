@@ -45,5 +45,6 @@ public class MainActivity extends AppCompatActivity {
         Random rand = new Random();
 
         randomNumber = rand.nextInt(20) + 1;
+//        test
     }
 }
